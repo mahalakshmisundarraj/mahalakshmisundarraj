@@ -8,9 +8,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=mahalakshmisundarraj&color=8B5CF6&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/mahalakshmisundarraj?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
-![GitHub User's stars](https://img.shields.io/github/stars/mahalakshmisundarraj?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=mahalakshmislatha&color=8B5CF6&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/mahalakshmislatha?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
+![GitHub User's stars](https://img.shields.io/github/stars/mahalakshmislatha?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
 
 </div>
 
@@ -164,9 +164,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahalakshmisundarraj/mahalakshmisundarraj/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahalakshmisundaraj/mahalakshmisundarraj/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mahalakshmisundarraj/mahalakshmisundarraj/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahalakshmislatha/mahalakshmislatha/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahalakshmislatha/mahalakshmislatha/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mahalakshmislatha/mahalakshmislatha/output/github-snake.svg" />
 </picture>
 
 </div>  
@@ -193,7 +193,7 @@
 
 ##  Connect with Me  
 <p align="left">
-  <a href="https://github.com/mahalakshmisundarraj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/mahalakshmislatha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/maha-lakshmi-47b6a2352/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="kit28.24bcb030@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>  
@@ -205,6 +205,6 @@
 ###  Fun Fact
 *"In the vast universe of code, every problem is just a star waiting to be discovered!"*
 
-**⭐ From [Mahalakshmi](https://github.com/mahalakshmisundarraj)**
+**⭐ From [Mahalakshmi](https://github.com/mahalakshmislatha)**
 
 </div>
